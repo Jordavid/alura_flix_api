@@ -1,0 +1,30 @@
+{
+    "categoria":[
+        "BackEnd",
+        "FrontEnd",
+        "Innovacion y Gestion"
+    ],
+    "videos":[
+        {
+            "id": 1,
+            "categoria": "BackEnd",
+            "imagen":"https://i3.ytimg.com/vi/t-iqt1b2qqk/maxresdefault.jpg",
+            "url":"https://www.youtube.com/watch?v=t-iqt1b2qqk",
+            "descripcion":"Spring Framework. ¿Qué es ?"
+        },
+        {
+            "id": 2,
+            "categoria": "FrontEnd",
+            "imagen":"https://i3.ytimg.com/vi/9xlea2yDFaY/maxresdefault.jpg",
+            "url":"https://youtu.be/9xlea2yDFaY",
+            "descripcion":"React Hooks: ¿qué son y cómo funcionan?"
+        },
+        {
+            "id": 3,
+            "categoria": "Innovacion y Gestion",
+            "imagen":"https://i3.ytimg.com/vi/_-9grhDhxiU/maxresdefault.jpg",
+            "url":"https://www.youtube.com/watch?v=_-9grhDhxiU",
+            "descripcion":"7 Soft Skills más demandadas de 2024"
+        }
+    ]
+}
